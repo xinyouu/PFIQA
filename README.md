@@ -18,4 +18,4 @@
 ```
 
 ## :e-mail: Contact
-For any question about our paper or code, please contact [Xinying Lin](mailto:linxinying@stu.scu.edu.cn) and [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
+For any question about our paper or code, please emial `linxinying@stu.scu.edu.cn` or `liuxuyang@stu.scu.edu.cn`.
