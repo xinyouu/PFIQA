@@ -5,7 +5,7 @@
 </div>
 
 ## 🔥 News
-* `2024/10/18` We release our work [PFIQA](https://arxiv.org/abs/2405.09472) about about reference-reduced super-resolution image quality assessment, which has been accepted by IEEE Transactions on Broadcasting!
+* `2024/10/17` We release our work [PFIQA](https://arxiv.org/abs/2405.09472) about about reference-reduced super-resolution image quality assessment, which has been accepted by IEEE Transactions on Broadcasting!
 
 ## 📌 Citation
 ```bibtex
