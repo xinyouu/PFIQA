@@ -15,6 +15,13 @@
   journal={arXiv preprint arXiv:2405.09472},
   year={2024}
 }
+@article{lin2024perception,
+  title={Perception-and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment},
+  author={Lin, Xinying and Liu, Xuyang and Yang, Hong and He, Xiaohai and Chen, Honggang},
+  journal={IEEE Transactions on Broadcasting},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## :e-mail: Contact
