@@ -16,5 +16,5 @@
 }
 ```
 
-## :e-mail: Contact
+## Contact
 For any question about our paper or code, please emial `linxinying@stu.scu.edu.cn`.
