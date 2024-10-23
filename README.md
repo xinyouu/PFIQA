@@ -18,3 +18,6 @@
 
 ## Contact
 For any question about our paper or code, please emial `linxinying@stu.scu.edu.cn`.
+
+## Acknowledgment
+The codes are based on [AHIQ](https://github.com/IIGROUP/AHIQ).Thanks for their awesome works.
