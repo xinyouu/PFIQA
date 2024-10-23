@@ -4,10 +4,8 @@
 
 </div>
 
-## 🔥 News
-* `2024/10/17` We release our work [PFIQA](https://arxiv.org/abs/2405.09472) about about reference-reduced super-resolution image quality assessment, which has been accepted by IEEE Transactions on Broadcasting!
 
-## 📌 Citation
+## Citation
 ```bibtex
 @article{lin2024perception,
   title={Perception-and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment},
