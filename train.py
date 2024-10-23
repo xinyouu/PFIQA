@@ -318,7 +318,6 @@ class Train:
         torch.save({
             'epoch': epoch,
             'regressor_model_state_dict': self.regressor.stat==e_dict(),
-            # 'cnn_fusion_net_model_state_dict': self.cnn_fusion_net.state_dict(),
             'optimizer_state_dict': self.optimizer.state_dict(),
             'scheduler_state_dict': self.scheduler.state_dict(),
             'loss': loss
