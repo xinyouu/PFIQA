@@ -1,0 +1,15 @@
+python train.py
+#--train_ref_path /home/fofo/A/lxy/CKDN-main/dataset/Train_Ref
+#--train_dis_path /home/fofo/A/lxy/CKDN-main/dataset
+#--train_list /home/fofo/A/lxy/CKDN-main/dataset
+#--val_ref_path /home/fofo/A/lxy/CKDN-main/dataset/Train_Ref
+#--val_dis_path /home/fofo/A/lxy/CKDN-main/dataset
+#--val_list /home/fofo/A/lxy/CKDN-main/dataset
+#--checkpoints_dir /home/fofo/A/lxy/AHIQ-main/AHIQ-main/checkpoint/ahiq_pipal
+--train_ref_path /home/fofo/A/ZYF/DISQ_tf2.9/data_train/QADS_data/LR
+--train_dis_path /home/fofo/A/ZYF/DISQ_tf2.9/data_train/QADS_data/super-resolved_images/
+--train_list /home/fofo/A/ZYF/MANIQA/QADS/train784imgs.txt
+--val_ref_path /home/fofo/A/lxy/CKDN-main/dataset/Train_Ref
+--val_dis_path /home/fofo/A/ZYF/DISQ_tf2.9/data_train/QADS_data/super-resolved_images/
+--val_list /home/fofo/A/ZYF/MANIQA/QADS/train784imgs.txt
+--checkpoints_dir /home/fofo/A/lxy/AHIQ-main/AHIQ-main/checkpoint/ahiq_pipal/AHIQ_vit_p8_epoch33.pth
