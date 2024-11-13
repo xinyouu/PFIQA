@@ -5,7 +5,7 @@
 </div>
 
 ## Overview
-<p align="center"> <img src="overview.pdf" width="100%"> </p>
+<p align="center"> <img src="overview.png" width="100%"> </p>
 
 ## Acknowledgment
 The codes are based on [AHIQ](https://github.com/IIGROUP/AHIQ). Thanks for their awesome works.
