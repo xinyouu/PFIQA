@@ -19,7 +19,7 @@ All dependencies for defining the environment are provided in `requirements.txt`
 
 ### Dataset
 - We conduct experiments on three widely-used SR-IQA benchmarks, including [WIND](https://ivc.uwaterloo.ca/database/WIND.html), [QADS](http://www.vista.ac.cn/super-resolution/) and [RealSRQ](https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA).
-- We split the dataset into training and testing sets with a ratio of 8:2. The training and testing lists are stored in train.txt and test.txt respectively, following the format: SRimage_name#MOS#LRimage_name
+- We split the dataset into training and testing sets with a ratio of 8:2. The training and testing lists are stored in train.txt and test.txt respectively, following the format: “SRimage_name#MOS#LRimage_name”. The dataloader (data/RealSRQ.py) can be modified to accommodate different txt file formats.
 
 
 ### Instruction
