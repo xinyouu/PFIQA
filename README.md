@@ -2,7 +2,11 @@
   
 # Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment
 
-[[paper]](https://ieeexplore.ieee.org/document/10742110) [[code](https://github.com/xinyouu/PFIQA)]
+<p>
+<a href='https://arxiv.org/pdf/2405.09472'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
+<a href='https://ieeexplore.ieee.org/document/10742110'><img src='https://img.shields.io/badge/Paper-TBC-green'></a>
+</p>
+
 
 </div>
 
